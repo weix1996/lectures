@@ -1,1 +1,1 @@
-# lectures notes taken in Econ 481F
+Lectures notes taken in Econ 481F
